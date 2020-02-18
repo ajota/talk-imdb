@@ -1,0 +1,1000 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 83,
+          "y": 278,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div style=\"text-align: center;\">Bases de datos en memoria</div><div style=\"text-align: center;\">(IMDB)</div>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 63,
+          "y": 6,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Lato\" color=\"#a0a0a0\">IMDB</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": false,
+      "active": false,
+      "x": 180,
+      "y": 180,
+      "markdown": ""
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 83,
+          "y": 279,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"Lato\">Base de datos en memoria...<br><div style=\"text-align: center;\">¿Que es?</div></font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 63,
+          "y": 6,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Lato\" color=\"#a0a0a0\">IMDB</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 220,
+          "y": 60,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"Lato\">Base de datos en memoria...<br><div style=\"text-align: center;\">¿Que es?</div></font>",
+          "size": 48,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 69,
+          "y": 222,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">* Es un espacio que se usa en memoria para <br>almacernar información.</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 63,
+          "y": 6,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Lato\" color=\"#a0a0a0\">IMDB</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 427,
+          "y": 635,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font face=\"Lato\">Ajam....</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 63,
+          "y": 6,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Lato\" color=\"#a0a0a0\">IMDB</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 69,
+          "y": 222,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">* Es un espacio que se usa en memoria para <br>almacernar información.</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 220,
+          "y": 60,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"Lato\">Base de datos en memoria...<br><div style=\"text-align: center;\">¿Que es?</div></font>",
+          "size": 48,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 63,
+          "y": 6,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Lato\" color=\"#a0a0a0\">IMDB</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 66,
+          "y": 137,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 40,
+          "text": "<font face=\"Lato\" color=\"#333333\">un computador entre sus&nbsp; multiples componentes,<br>poseé dos muy importantes y principales, los cuales <br>deben cumplir&nbsp;con la tarea de retener o contener <br>la informacion de forma binaria:<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 72,
+          "y": 354,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 49,
+          "text": "<font face=\"Lato\">RAM y HDD</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 4,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 63,
+          "y": 6,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Lato\" color=\"#a0a0a0\">IMDB</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 195,
+          "y": 154,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 67,
+          "text": "<font face=\"Lato\" color=\"#333333\">--Clase de anatomia--</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 132,
+          "y": 100,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Lato\"><i>&lt;BR/&gt;</i></font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 67,
+          "y": 243,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 35,
+          "text": "<font face=\"Lato\">El cerebro humano funciona de manera similar en cuanto <br>a la creacion de memorias tal como&nbsp;</font>lo hace un computador.<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 66,
+          "y": 361,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Lato\" color=\"#333333\">Poseemos el lobulo temporal y la corteza prefrontal</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 283,
+          "y": 399,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font face=\"Lato\" color=\"#333333\">-----(hipocampus)-----</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 176,
+          "y": 185,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 69,
+          "text": "<font face=\"Lato\" color=\"#333333\">Pregunta:</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 168,
+          "y": 271,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">Que hace la diferencia entre <br>ambos componentes de memoria</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 113,
+          "y": 234,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 123,
+          "text": "<font face=\"Lato\" color=\"#333333\">¿</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 856,
+          "y": 251,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 121,
+          "text": "<font face=\"Lato\" color=\"#333333\">?</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 410,
+          "y": 392,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font face=\"Lato\" color=\"#333333\"><i>RAM y HDD (SSD)</i></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 62,
+          "y": 246,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font face=\"Lato\" color=\"#333333\"><b>RAM:</b> Cumple la funcion de contener la informacion de procesamiento inmediato,&nbsp;<br>esto quiere decir que ahí reside toda la informacion con la cual el procesador interactua&nbsp;<br>en el momento en el que se esta ejecutando cualquier aplicacion, estos datos estarán<br>disponibles siempre y cuando el dispositivo pueda acceder a una fuente de energia.<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 67,
+          "y": 509,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font face=\"Lato\" color=\"#333333\"><b>HDD (SSD):</b> Se encarga de contener informacion de manera permanente, esta no <br>depende de energia para que la informacion alli sea persistente.</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 202,
+          "y": 373,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 31,
+          "text": "<font face=\"Lato\" color=\"#333333\">Las bases de datos en memoria residen aquí</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 200,
+          "y": 154,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 67,
+          "text": "<font face=\"Lato\" color=\"#333333\">--Clase de anatomia--</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 132,
+          "y": 100,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Lato\"><i>&lt;BR/&gt;</i></font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 62,
+          "y": 244,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 32,
+          "text": "<font face=\"Lato\"><b>El lobulo temporal<i>(hipocampus)</i>:</b>&nbsp;Se encarga de mantener la <br>informacion obtenida desde el entorno a traves de los los <br>estimulos percibidos&nbsp;</font>por nuestros sentidos, es llamado tambien <br>memoria a corto plazo por que en este punto aun no se <br>crean recuerdos de antaño.<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 61,
+          "y": 465,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 32,
+          "text": "<font face=\"Lato\" color=\"#333333\"><b>La corteza prefrontal: </b>Es donde se encuentra la memoria a&nbsp;largo <br>plazo, donde residen todos los recuerdos desde que la conciencia <br>se hace presente y a la cual accedemos para obtener un numero <br>de telefono, el documento de identidad, entre otros.</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 8,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 176,
+          "y": 184,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 69,
+          "text": "<font face=\"Lato\" color=\"#333333\">Pregunta:</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 187,
+          "y": 272,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<div style=\"text-align: center;\"><span style=\"font-family: Lato;\">Por que puede ser util el uso de&nbsp;</span></div><font face=\"Lato\"><div style=\"text-align: center;\">bases de datos en memoria</div></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 137,
+          "y": 228,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 127,
+          "text": "<font face=\"Lato\" color=\"#333333\">¿</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 834,
+          "y": 251,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 127,
+          "text": "<font face=\"Lato\" color=\"#333333\">?</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 9,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 70,
+          "y": 163,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 26,
+          "text": "<font face=\"Lato\">Durante la ejecucion y procesamieno de un tarea, el procesador recurre <br>inicialmente a&nbsp;</font>obtener la informacion que necesita para ejecutar una orden <br>a la memoria RAM que por sus caracteristicas especiales la CPU tarda&nbsp;almenos <br>8 nanosegundos en obtener la informacion necesaria. En contraste con su <br>homologa (HDD/SSD),&nbsp; la cual puede tardar hasta 5 milisegundos para acceder <br>y entregar la informacion que la unidad de procesamiento solicita para realizar <br>cualquier accion.<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 76,
+          "y": 401,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font face=\"Lato\" color=\"#333333\"><b>En comparación:</b></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 216,
+          "y": 441,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 34,
+          "text": "<font face=\"Lato\" color=\"#333333\">1 milisegundo&nbsp; = 1'000.000 nanosegundos</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 234,
+          "y": 480,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font face=\"Lato\" color=\"#333333\"><i>(HDD tarda 5 ms)</i></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 560,
+          "y": 479,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font face=\"Lato\" color=\"#333333\"><i>(RAM tarda 8 ns)</i></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 83,
+          "y": 528,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font face=\"Lato\"><i>* La RAM para acceder y entregar informacion es 625,000 veces más rapida que el HDD</i></font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 10,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 71,
+          "y": 142,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\" color=\"#333333\"><b>Entonces:</b></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 64,
+          "y": 220,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Lato\" color=\"#333333\">Si una base de datos reside en la memoria RAM <br>obtenemos una manera veloz de acceder a los recursos <br>de informacion necesarios para realizar cualquier tarea.</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 64,
+          "y": 380,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Lato\">Para lograr esto cualquier base de datos debe cumplir <br>por lo menos con el&nbsp;</font>concepto ACID (Atomicity, <br>Consistency, Isolate, Durability) con el cual se trata de <br>garantizar que a traves de la implementacion de estas <br>reglas que cualquier transaccion&nbsp;se realize de una manera <br>integra y segura.<br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 11,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 58,
+          "y": 66.13946609176804,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 45,
+          "text": "<font face=\"Lato\" color=\"#333333\"><b>¿Como utilizo las bases de datos en memoria?</b></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 67,
+          "y": 145,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Lato\" color=\"#333333\">Existen multiples implementaciones en la red para los <br>diferentes entornos de desarrollo las cuales dan solucion&nbsp;<br>a la implementacion de esta practica:&nbsp;<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 286,
+          "y": 705,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font face=\"Lato\" color=\"#333333\"><a href=\"https://devopedia.org/in-memory-database\">https://devopedia.org/in-memory-database</a></font>",
+          "selected": false
+        },
+        {
+          "src": "https://i.imgur.com/KtCL9Tn.png",
+          "type": "Image",
+          "x": 115,
+          "y": 329,
+          "scale": {
+            "x": 0.5176470588235295,
+            "y": 0.5176470588235295,
+            "width": 176.00000000000003,
+            "height": 80.7529411764706
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://i.imgur.com/EX6cg2J.png",
+          "type": "Image",
+          "x": 319,
+          "y": 336,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://i.imgur.com/UmvkzCw.png",
+          "type": "Image",
+          "x": 517,
+          "y": 343,
+          "scale": {
+            "x": 0.7,
+            "y": 0.7,
+            "width": 168,
+            "height": 56
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://i.imgur.com/e1mSDmy.gif",
+          "type": "Image",
+          "x": 736,
+          "y": 331,
+          "scale": {
+            "x": 0.7,
+            "y": 0.7,
+            "width": 154,
+            "height": 70.69999999999999
+          },
+          "imageType": "GIF",
+          "selected": false
+        },
+        {
+          "markup": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" viewBox=\"0 0 50 50\" preserveAspectRatio=\"none\"><rect width=\"50\" height=\"50\"/></svg>",
+          "type": "Shape",
+          "x": 497,
+          "y": 326,
+          "scale": {
+            "width": 205.85640037035495,
+            "height": 81.30268606341812
+          },
+          "selected": false
+        },
+        {
+          "src": "https://i.imgur.com/hBj5Ys5.png",
+          "type": "Image",
+          "x": 236,
+          "y": 446,
+          "scale": {
+            "x": 0.22911051212938005,
+            "y": 0.22911051212938005,
+            "width": 170,
+            "height": 41.92722371967655
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://i.imgur.com/8Sm6WFU.png",
+          "type": "Image",
+          "x": 451,
+          "y": 438,
+          "scale": {
+            "x": 0.4807692307692308,
+            "y": 0.4807692307692308,
+            "width": 175,
+            "height": 51.92307692307693
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://i.imgur.com/wDVnJDn.png",
+          "type": "Image",
+          "x": 685,
+          "y": 437,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://i.imgur.com/P4eCr9U.png",
+          "type": "Image",
+          "x": 456,
+          "y": 524,
+          "scale": {
+            "x": 0.3505154639175257,
+            "y": 0.3505154639175257,
+            "width": 169.99999999999997,
+            "height": 71.50515463917525
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "markup": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" viewBox=\"0 0 50 50\" preserveAspectRatio=\"none\"><rect width=\"50\" height=\"50\"/></svg>",
+          "type": "Shape",
+          "x": 433,
+          "y": 520,
+          "scale": {
+            "width": 210.55262409189925,
+            "height": 80.95584426285795
+          },
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 12,
+      "selected": false,
+      "active": false,
+      "markdown": ""
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 243,
+          "y": 254,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 56,
+          "text": "<font face=\"Lato\">Ejemplo:</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 246,
+          "y": 340,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Lato\" color=\"#333333\"><a href=\"https://github.com/ajota/talk-imdb\">https://github.com/ajota/talk-imdb</a></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 13,
+      "selected": true,
+      "active": true
+    }
+  ],
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 243,
+        "y": 254,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 56,
+        "text": "<font face=\"Lato\">Ejemplo:</font><br>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 246,
+        "y": 340,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 36,
+        "text": "<font face=\"Lato\" color=\"#333333\"><a href=\"https://github.com/ajota/talk-imdb\">https://github.com/ajota/talk-imdb</a></font>",
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 13,
+    "selected": true,
+    "active": true
+  },
+  "fileName": "talk-imdb",
+  "customStylesheet": "/*.example {\n\tborder: 4px groove orange;\n}*/\n\n.slideContainer .img1:before{\n  display: inline-block;\n  content: url('https://github.com/ajota/talk-imdb/blob/master/recursos/Alti-base.png');\n  width:100%;\n  height:100%;\n}",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  }
+}
